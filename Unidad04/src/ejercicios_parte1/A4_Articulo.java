@@ -1,6 +1,6 @@
 package ejercicios_parte1;
 
-public class Articulo {
+public class A4_Articulo {
 	String nombre; 
 	Double precio; 
 	Double iva; 

@@ -1,12 +1,12 @@
 package ejercicios_parte1;
 
-public class Punto {
+public class A1_Punto {
 	int x; 
 	int y; 
 	
 
 	 // Constructor
-	public Punto(int x, int y) {
+	public A1_Punto(int x, int y) {
 	   this.x = x;
 	   this.y = y;
 	}
