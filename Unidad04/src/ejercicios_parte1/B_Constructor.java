@@ -2,7 +2,7 @@ package ejercicios_parte1;
 
 import java.util.Scanner;
 
-public class B_PrincipalPunto {
+public class B_Constructor {
 
 	public static void main(String[] args) {
 
