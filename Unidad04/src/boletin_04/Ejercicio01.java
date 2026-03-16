@@ -8,7 +8,7 @@ package boletin_04;
  * 	- Permitir incrementar segundos controlando los límites
  */
 
-public class Ejercicio01 {
+public class Hora {
 
 	/**
 	 * Constructor completo
