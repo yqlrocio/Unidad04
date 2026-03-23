@@ -130,7 +130,7 @@ public class Vehiculo {
 	}
 	
 	/**
-	 * Devuelve true si ambs coches tienen la misma matricula, y false si esta es distinta
+	 * Devuelve true si ambos coches tienen la misma matricula, y false si esta es distinta
 	 */
 	public boolean equals(Object objeto) {
 		//El booleano que indifcara si dos coches son iguales

@@ -51,7 +51,7 @@ public class MainVehiculo {
 				if (verificarYAnadirVehiculo(matricula, modelo, precio, porcentaje)) {
 					System.out.println("Se ha anadido el evhiculo correctamente");
 				} else {
-					System.out.println("No se ha podido anadir el vehiculo a la lista");
+					System.out.println("No se ha podido añadir el vehiculo a la lista");
 				}
 			}
 			case 2 -> {

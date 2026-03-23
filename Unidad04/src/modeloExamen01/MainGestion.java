@@ -60,7 +60,10 @@ public class MainGestion {
 	
 	public static void menuPrincipal() {
 		System.out.println();
-		System.out.println("GESTIONES Y CONSULTAS");
+		System.out.println("================================");
+		System.out.println("      GESTIONES Y CONSULTAS     ");
+		System.out.println("================================");
+		System.out.println();
 		System.out.println("1. Gestión de libros");
 		System.out.println("2. Gestión de socios");
 		System.out.println("3. Gestión de préstamos");
@@ -71,7 +74,10 @@ public class MainGestion {
 	}
 	
 	public static void gestionLibros() {
-		System.out.println("GESTION DE LIBROS");
+		System.out.println("================================");
+		System.out.println("	    GESTION DE LIBROS       ");
+		System.out.println("================================");
+		System.out.println();
 		System.out.println("1. Dar de alta un libro");
 		System.out.println("2. Consultar libros existentes");
 		System.out.println("3. Modificar información de libro");
@@ -82,7 +88,10 @@ public class MainGestion {
 	}
 	
 	public static void gestionSocios() {
+		System.out.println("================================");
 		System.out.println("GESTION DE SOCIOS");
+		System.out.println("================================");
+		System.out.println();
 		System.out.println("1. Dar de alta un socio");
 		System.out.println("2. Consultar socios");
 		System.out.println("3. Modificar información de un socio");
@@ -93,7 +102,10 @@ public class MainGestion {
 	}
 	
 	public static void gestionPrestamos() {
-		System.out.println("GESTION DE PRESTAMOS");
+		System.out.println("================================");
+		System.out.println("       GESTION DE PRESTAMOS     ");
+		System.out.println("================================");
+		System.out.println();
 		System.out.println("1. Registrar un préstamo");
 		System.out.println("2. Registrar una devolución");
 		System.out.println("3. Consultar el estado de los préstamos");
@@ -103,7 +115,10 @@ public class MainGestion {
 	}
 	
 	public static void consultaSistema() {
-		System.out.println("CONSULTAS DEL SISTEMA");
+		System.out.println("================================");
+		System.out.println("      CONSULTAS DEL SISTEMA     ");
+		System.out.println("================================");
+		System.out.println();
 		System.out.println("1. Mostrar los libros disponibles");
 		System.out.println("2. Mostrar información de un socio concreto");
 		System.out.println("3. Mostrar información de un libro concreto");
